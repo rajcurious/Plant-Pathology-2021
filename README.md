@@ -5,6 +5,13 @@
 # Flutter Application
   - select image from gallery,or take a picture on camera
   - run the inference model by clicking detect button
+  - demo
+  
+
+https://user-images.githubusercontent.com/57400340/126072317-b7a2a0bb-d53d-441e-8aba-78a5d4ee4420.mp4
+
+
+    
  
 ## colab visalization
   ### GRAD CAM MODEL
