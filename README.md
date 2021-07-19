@@ -10,19 +10,15 @@
   
 
 https://user-images.githubusercontent.com/57400340/126072317-b7a2a0bb-d53d-441e-8aba-78a5d4ee4420.mp4
-
-
-    
- 
-## colab visalization
-  ### GRAD CAM MODEL
  
 
 ### Presentaion 
 [link](https://docs.google.com/presentation/d/1oLPgDHYWfOBsnjVxVVNE2Kdfkjl1b46KEg_N5lg9sIQ/edit#slide=id.gd87840d715_0_37)
 
-###Future work
-  Add in app the feature to detect the region in leaf where disease is detected.currently this feature is only availble with colab notebook
+### Future work
+  - Add feature to detect the region in leaf where disease is detected.Currently this feature is only availble with colab notebook.
+  - Train over multiple databases for given plant.
+  - Add models for different plants.
 
   
   
