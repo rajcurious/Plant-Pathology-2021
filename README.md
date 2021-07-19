@@ -1,5 +1,5 @@
 # Plant-Pathology-2021
-  A kaggle compitition,The task was to detect disease detect in plants across 5 labels.
+  A kaggle compitition,The task was to detect disease in plants across 5 labels.
   [Plant Pathology 2021 - FGVC8](https://www.kaggle.com/c/plant-pathology-2021-fgvc8/overview_)
 
 # Flutter Application
